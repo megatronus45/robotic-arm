@@ -2,7 +2,7 @@
 
 A multi-component robotic arm and gripper system designed and assembled in **SolidWorks**. The project focused on 3D CAD modelling, mechanical assemblies, component interaction, and articulated motion.
 
-## Project Overview
+## Project Overview 
 
 The robotic arm consists of **11 individually designed components** that were modelled and combined into a complete mechanical assembly.
 
